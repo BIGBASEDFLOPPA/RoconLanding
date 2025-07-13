@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Gropled';
+  src: url('@/assets/fonts/Gropled-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Tilda Sans VF';
+  src: url('@/assets/fonts/TildaSans-VF.woff2') format('woff2'),
+  url('@/assets/fonts/TildaSans-VF.woff') format('woff'),
+  url('@/assets/fonts/TildaSans-VF.ttf') format('truetype');
+  font-weight: 400 500;
+  font-style: normal;
+  font-display: swap;
+}
