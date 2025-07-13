@@ -1,4 +1,4 @@
 ﻿# RoconLanding
 чтобы запустить проект используйте
-npm install
-npm run dev
+﻿#npm install
+﻿#npm run dev
