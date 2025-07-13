@@ -12,9 +12,6 @@ npm install
 # или
 yarn install
 Запуск в режиме разработки
-bash
-Копировать
-Редактировать
 npm run dev
 # или
 yarn dev
